@@ -1,0 +1,1 @@
+-I"C:/VSCodeC++/oop/Lab1/build/_deps/googletest-src/googlemock/include" -I"C:/VSCodeC++/oop/Lab1/build/_deps/googletest-src/googlemock" -isystem "C:/VSCodeC++/oop/Lab1/build/_deps/googletest-src/googletest/include" -isystem "C:/VSCodeC++/oop/Lab1/build/_deps/googletest-src/googletest"

@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+C:/VSCodeC++/oop/Lab1/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

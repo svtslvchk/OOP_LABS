@@ -1,0 +1,5 @@
+if(EXISTS "C:/VSCodeC++/oop/Lab1/build/turkish_tests[1]_tests.cmake")
+  include("C:/VSCodeC++/oop/Lab1/build/turkish_tests[1]_tests.cmake")
+else()
+  add_test(turkish_tests_NOT_BUILT turkish_tests_NOT_BUILT)
+endif()
